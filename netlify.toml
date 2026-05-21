@@ -1,5 +1,5 @@
 [build]
-  command = "mkdir -p public/evidence/output && cp trend-catalog.html public/index.html && cp evidence/output/top-50-products-by-reviews.json public/evidence/output/top-50-products-by-reviews.json"
+  command = "mkdir -p public/evidence/output && cp trend-catalog.html public/index.html && cp evidence/output/top-50-products-by-reviews.json public/evidence/output/top-50-products-by-reviews.json && cp evidence/output/top-300-typed.json public/evidence/output/top-300-typed.json"
   publish = "public"
 
 [[headers]]
